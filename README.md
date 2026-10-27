@@ -3,7 +3,13 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+- 💡 <em>🎓 𝘾𝙎𝙀 (𝘼𝙄/𝙈𝙇) 𝙎𝙩𝙪𝙙𝙚𝙣𝙩
+
+🤖 Passionate about 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲, 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 & 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
+
+💻 Exploring new technologies, building innovative projects, and turning ideas into practical solutions.
+
+🚀 𝘓𝘦𝘢𝘳𝘯 • 𝘉𝘶𝘪𝘭𝘥 • 𝘐𝘯𝘯𝘰𝘷𝘢𝘵𝘦</em>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
